@@ -1,7 +1,14 @@
 # Gabriel Andriotti
 
 ## Sobre mim
-Meu nome é Gabriel, atualmente desenvolvendo projetos com foco em Back End envolvendo liguagens de programação JavaScript, Python e tecnologia Node.js. Atualmente na Comgás com atividades de gestão de pessoas e equipes terceiras, controle de produção de ligações de gás natural em residências de alto padrão e prédios. Análise de notas no sistema SAP, controle de carteira e metas mensais. Resolução de problemas das atividades de campo, fiscalização de obras conforme normas NBR e internas.
+
+Profissional com perfil multidisciplinar orientado a resultados e desafios, com trajetória profissional em desenvolvimento na área de TI. Estudante de Análise de Sistemas, busco uma oportunidade para aplicar meus conhecimentos adquiridos na faculdade e em cursos relacionados.
+
+Formado em Mecatrônica em 2018, tenho expertise na condução de projetos internos, criação de procedimentos e otimizações, bem como na atuação em projetos de melhoria de processos. Possuo domínio em análise de circuitos eletrônicos, com foco no reparo de equipamentos de telecomunicações, calibração e realização de testes. Além disso, tenho experiência em montagem, instalação e manutenção de componentes elétricos e mecânicos, como motores e geradores.
+
+Atualmente desenvolvendo projetos de forma freelance e para fins educacionais, envolvendo linguagens de programação JAVA, JavaScript, Python e tecnologia Node.js.
+
+
 
 ## Conecte-se comigo 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-a-3ba31bb6/)[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
@@ -13,7 +20,7 @@ Meu nome é Gabriel, atualmente desenvolvendo projetos com foco em Back End envo
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andriottigabriel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&hide_title=true&text_color=FFF)
 
-## Minhas contribuicoes
+## Minhas contribuições
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andriottigabriel&layout=compact&bg_color=000&border_color=30A3DC&hide_title=true&text_color=FFF)
 
 
